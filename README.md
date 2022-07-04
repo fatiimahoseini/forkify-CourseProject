@@ -1,5 +1,13 @@
-# Forkify Project
+# FORKIFY PROJECT
 
-Recipe application with cutsom recipe uploads.
+# ABOUT
+💥 Recipe application with cutsom recipe uploads.
+<br/>
+❗ This is a Course Project. Please note that the design is not mine. just the code.
 
-This is a Course Project. Please note that the design is not mine. just the code.
+# DEMO
+<a href="#" target="_blank">🕹 Live Demo</a>
+
+# BUILT WITH
+- HTML&CSS-(SASS)
+- JavaScript
