@@ -1,4 +1,5 @@
 # FORKIFY PROJECT
+![Forkify NOX](https://user-images.githubusercontent.com/87571337/177211237-b8c0630d-0e7a-4406-b02e-7b50108f33e7.png)
 
 # ABOUT
 Recipe application with cutsom recipe uploads.
