@@ -2,6 +2,4 @@
 
 Recipe application with cutsom recipe uploads.
 
-A Course Project with Jonas Schmedtmann.
-
-Please note that this is not my design. Only the code.
+This is a Course Project. Please note that the design is not mine. just the code.
